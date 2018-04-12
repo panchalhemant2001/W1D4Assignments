@@ -11,8 +11,6 @@ function map(words, getArray) {
   return result;
 }
 
-
-
 function getLength(word) {
   return word.length;
 }
